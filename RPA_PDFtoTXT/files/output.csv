@@ -1,0 +1,12 @@
+Summary
+"Here is the output table based on the input text:
+
+| Date | Description | Withdrawals ($) | Deposits ($) | Balance ($) |
+| --- | --- | --- | --- | --- |
+| Dec 1 | Opening balance | $111,998.21 | - | $111,998.21 |
+| Dec 3 | INTERNET BILL PMT000000271954 | $96.59 | $111,901.62 | $110,905.03 |
+| Dec 7 | INTERNET BILL PMT000000241189 | $80.00 | $111,821.62 | $110,741.62 |
+| Dec 14 | DEPOSIT 06122 | $3,280.76 | - | $108,739.38 |
+| Dec 15 | INTERNET BILL PMT000000238543 | $126.36 | - | $114,263.02 |
+
+Note: If a header is empty, it is represented by a dash (-)."
